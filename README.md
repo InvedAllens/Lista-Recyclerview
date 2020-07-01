@@ -5,7 +5,7 @@
 ---
 *Principales caracteristicas*
 - La lista de objetos se muestra en un recycler view en la actividad principal y en la de favoritos
-- Los ultimos 5 elemnetos que se les ha dado "like" se muestran en una actividad de favoritos
+- Los ultimos 5 elementos que se les ha dado "like" se muestran en una actividad de favoritos
 - Se puede ver detalladamente cada elemento de la lista 
 
 <br/>
